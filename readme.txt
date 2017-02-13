@@ -10,3 +10,8 @@ DOWNLOAD PYTHON 3:
 
 3. Then install Python by typing in the following command:
     $ brew install python3
+
+
+RUN PROGRAM
+
+Run the program by typing the command: python3 server.py
