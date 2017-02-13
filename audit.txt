@@ -1,0 +1,18 @@
+A new game has been started.
+Sofia has put a pawn on column 3, row 6.
+Peter has put a pawn on column 5, row 6.
+Sofia has put a pawn on column 4, row 6.
+Peter has put a pawn on column 5, row 5.
+Sofia has put a pawn on column 2, row 6.
+Peter has put a pawn on column 5, row 4.
+Sofia has put a pawn on column 1, row 6.
+Sofia won the game.
+A new game has been started.
+Sofia has put a pawn on column 5, row 6.
+Peter has put a pawn on column 4, row 6.
+Sofia has put a pawn on column 5, row 5.
+Peter has put a pawn on column 4, row 5.
+Sofia has put a pawn on column 5, row 4.
+Peter has put a pawn on column 4, row 4.
+Sofia has put a pawn on column 5, row 3.
+Sofia won the game.
